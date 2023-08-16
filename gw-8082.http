@@ -1,0 +1,5 @@
+GET http://localhost:8082/api/user/tiep2
+Content-Type: application/json
+
+
+###
